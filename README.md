@@ -1,4 +1,4 @@
-# first install python
+# first install python 2.7
 # install requests and install beautifulsoup4
 # use pip install to download
 
